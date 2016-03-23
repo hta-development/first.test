@@ -1,3 +1,3 @@
 # first.test
 HTA first test project
-new 01
+new 01 02
